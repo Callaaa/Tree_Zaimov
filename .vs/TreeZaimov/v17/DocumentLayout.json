@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\STUDENTS-1212-2\\Desktop\\GP\\TreeZaimov\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30DBCE28-ACF4-4934-9E1D-3C6EFED7B173}|ConnectingTables_\\ConnectingTables_.csproj|c:\\users\\students-1212-2\\desktop\\gp\\treezaimov\\connectingtables_\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30DBCE28-ACF4-4934-9E1D-3C6EFED7B173}|ConnectingTables_\\ConnectingTables_.csproj|solutionrelative:connectingtables_\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DBCE28-ACF4-4934-9E1D-3C6EFED7B173}|ConnectingTables_\\ConnectingTables_.csproj|c:\\users\\students-1212-2\\desktop\\gp\\treezaimov\\connectingtables_\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30DBCE28-ACF4-4934-9E1D-3C6EFED7B173}|ConnectingTables_\\ConnectingTables_.csproj|solutionrelative:connectingtables_\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 216,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-2\\Desktop\\GP\\TreeZaimov\\ConnectingTables_\\Form1.cs",
+              "RelativeDocumentMoniker": "ConnectingTables_\\Form1.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-2\\Desktop\\GP\\TreeZaimov\\ConnectingTables_\\Form1.cs",
+              "RelativeToolTip": "ConnectingTables_\\Form1.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T05:28:14.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-2\\Desktop\\GP\\TreeZaimov\\ConnectingTables_\\Form1.cs",
+              "RelativeDocumentMoniker": "ConnectingTables_\\Form1.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-2\\Desktop\\GP\\TreeZaimov\\ConnectingTables_\\Form1.cs [Design]",
+              "RelativeToolTip": "ConnectingTables_\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T05:23:33.556Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 11,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
